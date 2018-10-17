@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-countdown-area">
     <div class="countdown-area bg-1 ptb-110 bg-opacity bg-relative">
       <div class="container">
         <div class="row">

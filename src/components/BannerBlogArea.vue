@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-banner-blog-area">
     <section class="banner-blog-area ptb-110">
       <div class="container">
         <div class="row">

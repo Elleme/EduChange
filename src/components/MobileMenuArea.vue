@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-mobile-menu-area">
     <div class="mobile-menu-area">
       <div class="container">
         <div class="row">

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-service-area">
     <section class="service-area gray-bg ptb-110">
       <!-- Demo Section    -->
       <div class="container">

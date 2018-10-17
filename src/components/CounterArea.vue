@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-counter-area">
     <div class="counter-area bg-2 bg-opacity bg-relative ptb-110">
       <div class="container">
         <div class="row">
@@ -10,7 +10,7 @@
               </div>
               <div class="counter-all">
                 <div class="counter-next2">
-                  <h2>Teachers</h2>
+                  <h2>讲师部</h2>
                 </div>
                 <div class="counter cnt-two">
                   <h1>34</h1>
@@ -25,10 +25,10 @@
               </div>
               <div class="counter-all">
                 <div class="counter-next2">
-                  <h2>Students</h2>
+                  <h2>宣传部</h2>
                 </div>
                 <div class="counter cnt-two">
-                  <h1>3554</h1>
+                  <h1>56</h1>
                 </div>
               </div>
             </div>
@@ -40,10 +40,10 @@
               </div>
               <div class="counter-all">
                 <div class="counter-next2">
-                  <h2>Research</h2>
+                  <h2>班主任部</h2>
                 </div>
                 <div class="counter cnt-two">
-                  <h1>354</h1>
+                  <h1>35</h1>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@
               </div>
               <div class="counter-all">
                 <div class="counter-next2">
-                  <h2>Awards</h2>
+                  <h2>统筹部</h2>
                 </div>
                 <div class="counter cnt-two">
                   <h1>44</h1>

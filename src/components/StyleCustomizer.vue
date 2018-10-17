@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Com-style-customizer">
     <div class="style-customizer closed">
       <div class="buy-button">
         <a href="index.html" class="customizer-logo"><img src="static/images/logo/logo.png" alt="Theme Logo"></a>
