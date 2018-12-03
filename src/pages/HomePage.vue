@@ -97,7 +97,6 @@
           </ul>
         </div>
       </div>
-
       <!--style-customizer end -->
     </div>
     <!-- Body main wrapper end -->
@@ -116,6 +115,7 @@
   import TestimonialArea from "../components/TestimonialArea";
   import FooterArea from "../components/FooterArea";
   import StyleCustomizer from "../components/StyleCustomizer";
+
   export default {
     name: 'HomePage',
     components: {
@@ -145,12 +145,12 @@
       js5.type = 'text/javascript';
       js6.type = 'text/javascript';
 
-      js1.src = 'static/js/vendor/modernizr-2.8.3.min.js';
-      js2.src = 'static/js/vendor/jquery-1.12.0.min.js';
-      js3.src = 'static/js/bootstrap.min.js';
-      js4.src = 'static/js/ajax-mail.js';
-      js5.src = 'static/js/plugins.js';
-      js6.src = 'static/js/main.js';
+      js1.src = '../../static/js/vendor/modernizr-2.8.3.min.js';
+      js2.src = '../../static/js/vendor/jquery-1.12.0.min.js';
+      js3.src = '../../static/js/bootstrap.min.js';
+      js4.src = '../../static/js/ajax-mail.js';
+      js5.src = '../../static/js/plugins.js';
+      js6.src = '../../static/js/main.js';
       document.body.appendChild(js1);
       document.body.appendChild(js2);
       document.body.appendChild(js3);

@@ -93,7 +93,10 @@
                 <a href="#"><img height="100px" src="static/images/logo/eduLogo.jpg" alt="" ></a>
               </div>
               <div class="footer-bottom-text ptb-20">
-                <p>Copyright &copy; 2018.教育改变晋江.  All rights reserved.</p>
+                <p>Copyright &copy; 2018.教育改变晋江.</p>
+                <p>All rights reserved.</p>
+                <p>福建省晋江市“教育改变晋江”宣传部制作</p>
+                <p>如有问题请联系 Young 895254752@qq.com</p>
               </div>
             </div>
           </div>
